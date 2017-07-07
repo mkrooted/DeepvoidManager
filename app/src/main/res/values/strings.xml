@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Deepvoid Password Manager</string>
+    <string name="new_record">new record</string>
+    <string name="wipe_data">wipe data</string>
+    <string name="change_master_key">Revoke master key</string>
+    <string name="enter_service_name">Enter service name</string>
+    <string name="enter_key">Enter key</string>
+    <string name="service_name">Service name</string>
+    <string name="save_master_key">Save master key</string>
+    <string name="enter_key_to_proceed">Enter master key to proceed</string>
+    <string name="title_activity_record_details">RecordDetails</string>
+    <string name="salt_value">Seed (opional)</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="recreate_record">Recreate record</string>
+    <string name="error_service_name">Error - invalid service name</string>
+    <string name="error_master_key">Error - master key absent</string>
+</resources>
